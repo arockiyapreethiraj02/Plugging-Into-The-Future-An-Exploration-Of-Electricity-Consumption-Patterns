@@ -4,3 +4,4 @@ dashboard1 public link -https://public.tableau.com/views/PLUGGINGINTOTHEFUTUREAN
 dashboard2 public link - https://public.tableau.com/views/PLUGGINGINTOTHEFUTUREANEXPLORATIONOFELECTRICITYCONSUMPTIONPATTERS/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 dashboard3 public link - https://public.tableau.com/views/PLUGGINGINTOTHEFUTUREANEXPLORATIONOFELECTRICITYCONSUMPTIONPATTERS/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 story board public link - https://public.tableau.com/views/PLUGGINGINTOTHEFUTUREANEXPLORATIONOFELECTRICITYCONSUMPTIONPATTERS/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+video demonstrate link - https://drive.google.com/file/d/1fUUGkMH_BXGw0bsRhwDXhubgHgsfiCtL/view?usp=share_link
